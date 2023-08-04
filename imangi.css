@@ -1,0 +1,472 @@
+.header{
+    width: 100%;
+    height: 61px;
+    background-color: #000000;
+    position: fixed;
+}
+body{
+    margin: 0;
+    padding: 0;
+    height: 2994px
+}
+.head1{
+    width: 40%;
+    height: 61px;
+    float: left;
+    background-color: #000000;
+}
+#logo{
+    height: 61px;
+    padding-left: 241px;
+    width: 111px;
+    cursor: pointer;
+}
+.head2{
+    width: 100%;
+    height: 61px;
+    background-color: #000000;
+}
+.table{
+    cursor: pointer;
+}
+#career{
+
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1;
+    font-family: "Roboto Condensed", sans-serif;
+    color: #fff;
+    padding-left: 116px;
+    padding-top: 23px;
+    font-size: 14px;
+}
+.info {
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1;
+    font-family: "Roboto Condensed", sans-serif;
+    color: #fff;
+    padding-top: 23px;
+    font-size: 14px;
+    padding-left: 33px;;
+    
+}
+.imangistudio{
+    width: 100%;
+    height: 675px;
+    background-color: #ffffff;
+    background-image: url(hero_1920x700.jpg);
+    background-size: 1464px;
+    background-position: center;
+    padding-top: 60px;
+    float: left;
+}
+.content{
+    width: 25%;
+    height: 106px;
+    background-color: #fffef8;
+    margin-top: 246px;
+    margin-left: 551px;
+}
+.cont1{
+    width: 100%;
+    height: 79px;
+    background-color: #fffef8;
+    float: left;
+}
+h1{
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 45px;
+    padding-left: 5px;
+    line-height: 43px;
+}
+.cont2{
+    width: 100%;
+    height: 27px;
+    background-color: #fffef8;
+    float: left;
+}
+#cont3{
+    font-family: "Roboto Condensed", sans-serif;
+    line-height: 1px;
+    padding-left: 76px;
+    padding-top: -7px;
+    margin-top: 11px;
+    /* width: 308px; */
+    font-size: 19px;
+}
+.game1{
+    width: 100%;
+    height: 530px;
+    background-color: #ffffff;
+    float: left;
+    margin-top: 263px;
+}
+.ourgames{
+    width: 100%;
+    height: 122px;
+    background-color: #ffffff;
+    float: left;
+}
+.games{
+    font-family: "Roboto Condensed", sans-serif;
+    text-align: center;
+    font-weight: bold;
+    /* font-family: var(--font-family-principal); */
+    padding-top: 37px;
+    padding-left: 0px;
+    font-size: 39px;
+}
+.versions{
+    float: left;
+    width: 100%;
+    height: 350px;
+    background-color: #ffffff;
+}
+.version1{
+    float: left;
+    width: 50%;
+    height: 350px;
+    background-color: #ffffff;
+}
+.version2{
+    width: 100%;
+    height: 350px;
+    background-color: #ffffff;
+}
+.templerun{
+    width: 440px;
+    padding-left: 242px;
+    padding-top: 45px;
+    height: 297px;
+    cursor: pointer;
+}
+.templerun2{
+    height: 297px;
+    width: 440px;
+    padding-top: 45px;
+    padding-left: 49px;
+    cursor: pointer;
+}
+.versionhead{
+    width: 100%;
+    float: left;
+    background-color: #ffffff;
+    height: 59px;
+}
+.versionhead1{
+    width: 50%;
+    float: left;
+    height: 59px;
+    background-color: #ffffff;
+}
+.versionhead2{
+    width: 100%;
+    height: 58px;
+    background-color: #ffffff;
+    padding-top: 1px;
+}
+#head1{
+    color: #606060;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 25px;
+    line-height: 6px;
+    padding-left: 209px;
+    font-weight: 100;
+    font-family: "Roboto Condensed", sans-serif;
+}
+#head2{
+    color: #606060;
+    margin-top: 20px;
+    font-size: 25px;
+    line-height: 6px;
+    padding-left: 934px;
+    font-weight: 100;
+    font-family: "Roboto Condensed", sans-serif;
+}
+.game2{
+    width: 100%;
+    height: 420px;
+    background-color: #ffffff;
+    float: left;
+}
+.version3{
+    float: left;
+    width: 50%;
+    height: 341px;
+    background-color: #ffffff;
+
+}
+.version4{
+    width: 100%;
+    height: 341px;
+    background-color: #ffffff;
+}
+.versionheading{
+    width: 100%;
+    height: 80px;
+    background-color: #ffffff;
+    float: left;
+}
+.versionhead3{
+    width: 50%;
+    height: 79px;
+    background-color: #ffffff;
+    float: left;
+}
+.versionhead4{
+    width: 100%;
+    height: 78px;
+    background-color: #ffffff;
+    padding-top: 1px;
+}
+#head3{
+    color: #606060;
+    text-align: center;
+    margin-top: 31px;
+    font-size: 24px;
+    line-height: 6px;
+    padding-left: 208px;
+    font-weight: 100;
+    font-family: "Roboto Condensed", sans-serif;
+}
+#head4{
+    color: #606060;
+    margin-top: 31px;
+    font-size: 24px;
+    line-height: 6px;
+    padding-left: 860px;
+    font-weight: 100;
+    font-family: "Roboto Condensed", sans-serif;
+}
+.about{
+    width: 100%;
+    height: 664px;
+    background-color: #ffffff;
+    float: left;
+}
+.para{
+    width: 53%;
+    height: 664px;
+    background-color: #ffffff;
+    float: left;
+}
+.symbol{
+    width: 47%;
+    height: 664px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+}
+.parahead{
+    width: 100%;
+    height: 225px;
+    background-color: #ffffff;
+    float: left;
+}
+.paracontent{
+    width: 100%;
+    height: 648px;
+    background-color: #ffffff;
+   
+}
+.paraheader{
+    color: black;
+    text-transform: capitalize;
+    margin-bottom: 30px;
+    letter-spacing: -1.7px;
+    font-family: "Roboto Condensed", sans-serif;
+    line-height: 50px;
+    padding-top: 83px;
+    padding-left: 242px;
+    font-weight: bold;
+}
+.para1{
+    box-sizing: border-box;
+    padding-left: 242px;
+    line-height: 20px;
+    padding-top: 222px;
+    font-family: "Roboto Condensed", sans-serif;
+}
+.para2{
+    box-sizing: border-box;
+    padding-left: 242px;
+    line-height: 20px;
+    font-family: "Roboto Condensed", sans-serif;
+}
+.para3{
+    box-sizing: border-box;
+    padding-left: 242px;
+    line-height: 20px;
+    font-family: "Roboto Condensed", sans-serif;
+}
+.goldenlogo{
+    height: 526px;
+    padding-top: 88px;
+    padding-left: 49px;
+    width: 316px;
+}
+.footer{
+    width: 100%;
+    height: 900px;
+    background-color: #000000;
+    margin-top: 1928px;
+    height: 658px;
+}
+.foot1{
+    width: 100%;
+    height: 600px;
+    background-color: #000000;
+    float: left;
+}
+.foot2{
+    width: 100%;
+    height: 100px;
+    background-color: #000000;
+    
+}
+.copyright{
+    color: #ffffff;
+    line-height: 58px;
+    font-family: "Roboto Condensed", sans-serif;
+    padding-left: 424px;
+    font-size: 15px;
+}
+.portion1{
+    width: 100%;
+    height: 442px;
+    background-color: #000000;
+    float: left;
+}
+.demilogo{
+    height: 442px;
+    width: 50%;
+    background-color: #000000;
+    float: left;
+}
+.careerpart{
+    height: 442px;
+    width: 50%;
+    background-color: #000000;
+    float: left;
+}
+#demon{
+    padding-left: 140px;
+    margin-top: -71px;
+}
+#careertitle{
+    line-height: 50px;
+    font-family: sans-serif;
+    padding-top: 48px;
+    padding-left: 6px;
+    font-weight: bold;
+    color: white;
+}
+#footerpara{
+    padding-left: 9px;
+    margin-top: -20px;
+    font-family: "Roboto Condensed", sans-serif;
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+}
+#submit{
+    padding-left: 6px;
+    margin-left: 9px;
+    height: 37px;
+    width: 117px;
+    margin-top: -2px;
+    border: solid thin white;
+    background-color: white;
+    color: #9ea09bcf;
+}
+#submit:hover{
+    cursor: pointer;
+    background-color: #000000;
+}
+.portion2{
+    width: 100%;
+    background-color: #000000;
+    height: 158px;
+    float: left;
+}
+.socialmedia{
+    width: 50%;
+    background-color: #000000;
+    height: 158px;
+    float: left;
+}
+.downloadoption{
+    width: 50%;
+    background-color: #000000;
+    height: 158px;
+    float: left;
+}
+.appstore{
+    width: 42%;
+    height: 158px;
+    float: left;
+    background-color: #000000;
+}
+.playstore{
+    width: 58%;
+    height: 158px;
+    float: left;
+    background-color: #000000;
+}
+.appstorebadge{
+    padding-left: 124px;
+    padding-top: 18px;
+    height: 60px;
+    cursor: pointer;
+}
+.playstorebadge{
+    height: 83px;
+    margin-top: 5px;
+}
+span{
+    line-height: 57px;
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 13px;
+    padding-left: 241px;
+    color: white;
+    font-weight: bold;
+}
+.fa-facebook-f{
+    font-size: 22px;
+    margin-top: 9px;
+    padding-left: 242px;
+    color: #fff;
+}
+.socialmedia1{
+    width: 100%;
+    height: 34px;
+    background-color: #000000;
+    float: left;
+}
+.socialmedia2{
+    width: 100%;
+    height: 124px;
+    background-color: #000000;
+    float: left;
+}
+.fa-twitter{
+    color: #fff;
+    padding-left: 5px;
+    font-size: 22px;
+}
+.fa-instagram{
+    color: #fff;
+    padding-left: 5px;
+    font-size: 22px;
+}
+.fa-twitch{
+    color: #fff;
+    padding-left: 5px;
+    font-size: 22px;
+}
+.fa-youtube{
+    color: #fff;
+    padding-left: 5px;
+    font-size: 22px;
+}
